@@ -7,5 +7,6 @@
 ### About me
 I'm a {backend, Ruby on Rails} developer.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcleyton&show_icons=true&theme=cobalt)](https://github.com/rcleyton/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=rcleyton&theme=dark)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rcleyton&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
